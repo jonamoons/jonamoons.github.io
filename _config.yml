@@ -21,7 +21,7 @@ footer:
   contact:
     - name: jonathanmoens94@gmail.com
       value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
+      link: mailto:jonathanmoens94@gmail.com
     - name: WeChat
       value: YourWeChatUsername
       link: "#"
